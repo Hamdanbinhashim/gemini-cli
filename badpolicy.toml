@@ -1,0 +1,4 @@
+[[rule]]
+toolname = "glob" # Notice the lowercase 'n'
+decision = "allow"
+priority = 200
